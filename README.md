@@ -1,7 +1,7 @@
 # Payments Cloud Migration
 
 ## Project Overview
-WEX faced frequent downtimes and increased operational costs, impacting customer satisfaction and scalability. The solution involved migrating from EC2 to EKS (Kubernetes), improving system reliability and scalability.
+Merchants faced frequent downtimes and increased operational costs, impacting customer satisfaction and scalability. The solution involved migrating from EC2 to EKS (Kubernetes), improving system reliability and scalability.
 
 ## Key Features
 - Migration from EC2 to EKS (Kubernetes).
